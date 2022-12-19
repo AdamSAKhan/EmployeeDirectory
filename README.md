@@ -4,22 +4,22 @@ Employees Application
 
 The application displays employees.
 
-Installation
+## Installation
 Can be used with Xcode 14 and above. 
 Compatible for iPhone and iPad.
 
-Architecture 
+## Architecture 
 This application uses MVVM for the views and clean architecture for the URL calls. 
 
-Design Patterns 
+## Design Patterns 
 Publisher subscriber pattern. 
 State/Binding. 
 
-Testing
+## Testing
 Unit tests for success and failure situations. 
 Mocked responses using FakeNetworkManager and Protocol. 
 
-Local Storage
+## Local Storage
 NSCache is used to store and cache images locally. 
 
 IPad UI without Error
