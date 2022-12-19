@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DD725CCE-72D9-49BD-AE45-36554096E060"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A89723C-02B6-422F-98D6-B7DFE5719CC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectoryTests/EmployeesViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "testGetEmloyees()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB87572B-0ED3-4591-877A-E258A78BCFB4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectoryTests/FakeEmployeeVMManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getData(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB87572B-0ED3-4591-877A-E258A78BCFB4 - d868a4c242f4b19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmployeeDirectoryTests.FakeEmployeeVMManager.getData(from: Swift.String) throws -&gt; Foundation.Data"
+                  moduleName = "EmployeeDirectoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamkhan/Downloads/EmployeeDirectory/EmployeeDirectoryTests/FakeEmployeeVMManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "EB87572B-0ED3-4591-877A-E258A78BCFB4 - d868a4c242f4b19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmployeeDirectoryTests.FakeEmployeeVMManager.getData(from: Swift.String) throws -&gt; Foundation.Data"
+                  moduleName = "EmployeeDirectoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamkhan/Downloads/EmployeeDirectory/EmployeeDirectoryTests/FakeEmployeeVMManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E027CD8-C617-426B-BF49-9A3BB32F4001"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectoryTests/FakeEmployeeVMManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getData(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E027CD8-C617-426B-BF49-9A3BB32F4001 - d868a4c242f4a70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmployeeDirectoryTests.FakeEmployeeVMManager.getData(from: Swift.String) throws -&gt; Foundation.Data"
+                  moduleName = "EmployeeDirectoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamkhan/Downloads/EmployeeDirectory/EmployeeDirectoryTests/FakeEmployeeVMManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "2E027CD8-C617-426B-BF49-9A3BB32F4001 - d868a4c242f4bfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmployeeDirectoryTests.FakeEmployeeVMManager.getData(from: Swift.String) throws -&gt; Foundation.Data"
+                  moduleName = "EmployeeDirectoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamkhan/Downloads/EmployeeDirectory/EmployeeDirectoryTests/FakeEmployeeVMManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
